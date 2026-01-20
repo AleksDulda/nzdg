@@ -1,0 +1,182 @@
+{
+  "balloons": [
+    {
+      "id": 1,
+      "message": "Doğum günün kutlu olsun nazlı kızım Naz'ım💞🥳💐 İyi ki doğdunnn ve iyi ki seni tanımışımmmm✨️🥹 İnşallah ömrün boyunca heppp mutlu sevdiklerinle güzel bir hayat yaşarsınnn 🫂 Seni çok seviyorum kiii🙃🌷💐💞🥳",
+      "author": "Sarenur Unuttum ",
+      "color": "from-pink-400 to-pink-600",
+      "emoji": "💕"
+    },
+    {
+      "id": 2,
+      "message": "İyi ki doğduun Naz! 🎂🎉\ntuttuğun dilekler gerçek olsun!🍀💫",
+      "author": "Liva",
+      "color": "from-blue-400 to-blue-600",
+      "emoji": "💕"
+    },
+    {
+      "id": 3,
+      "message": "İYİ Kİ DOĞDUN NAZOŞŞŞ SENİ ÇOK SEVİYORUM NİCE MUTLU BİZLİ VE ZEHRALI SENELERE 🥳🥳🥳🥳",
+      "author": "ruveyda yılmaz",
+      "color": "from-purple-400 to-purple-600",
+      "emoji": "💕"
+    },
+    {
+      "id": 4,
+      "message": "Ortaokuldan beri her zaman yanımda olduğun ve en zor senem olan mezuna kaldığım sene yoldaşım olduğun için teşekkür ederim :) Aramıza ne kadar mesafe girerse girsin dostluğumuz hep daha güçlü oldu, bundan sonrası için de öyle olacak biliyorum. Doğum günün kutlu olsun, iyi ki varsın💖",
+      "author": "Gamze Demirtaş",
+      "color": "from-orange-400 to-orange-600",
+      "emoji": "💕"
+    },
+    {
+      "id": 5,
+      "message": "Ortaokuldan bu yana her şey değişti ama dostluğumuz hiç değişmedi🥰 iyi ki doğdun iyi ki varsın 💫 Yeni yaşın sana tüm güzelleriyle gelsin canım dostum 💖💝🫶🏻🫂",
+      "author": "Nurgül çetin",
+      "color": "from-yellow-400 to-yellow-600",
+      "emoji": "💕"
+    },
+    {
+      "id": 6,
+      "message": "Doğum günün kutlu olsun birtanem nice musmutlu yıllarımız olsunnn 🤍💞 Seni çok seviyoruuummm iyi ki varsın 💖",
+      "author": "Hatice Dönmez ",
+      "color": "from-cyan-400 to-cyan-600",
+      "emoji": "💕"
+    },
+    {
+      "id": 7,
+      "message": "Canım arkadaşım iyi ki doğdun seni çok seviyorum arkadaşlığımız dostluğumuz ömür boyu sürsün dileklerin her zaman gerçek olsun öpüyorum kocaman💖🫶🏻🌸💐🥹",
+      "author": "Zeynep beyza",
+      "color": "from-green-400 to-green-600",
+      "emoji": "💕"
+    },
+    {
+      "id": 8,
+      "message": "Naaaazz Doğum günün kutlu olsunnn 🥳. Nice musmutlu seneleree. Yeni yaşında tüm güzellikler senin olsunn. Seni tanımak çok çook güzel💛💛💛. Başta ne kadar taş gibi sert olduğunu düşünsem de içten içe çok tatlı biri çıktın AHAHAHAHAH 4.sende artık söylemiş olayım. İyi ki doğdun, iyi ki varsın. 🎂🍰✌🏻çok çok sevgilerlee. \n EFE",
+      "author": "Tarık Efe Güner",
+      "color": "from-red-400 to-red-600",
+      "emoji": "💕"
+    },
+    {
+      "id": 9,
+      "message": "Hayatımda tanıdığım en anlayışlı en tatlı ve bı o kadarda eğlenceli insanlardansın iyi ki seni tanımışım ve bakış açınla herşeye renk getirdiğin için teşekkürler iyi ki doğdun iyi ki varsınnn ❤️🥳🥳",
+      "author": "Berat Alaca ",
+      "color": "from-rose-400 to-rose-600",
+      "emoji": "💕"
+    },
+    {
+      "id": 10,
+      "message": "Birliktee nicee nicee senelere aşkım. İnşallah her günümüz bir öncekinden güzel geçer!! Nice mutlu musmutlu güzell yıllaraa.!!!!",
+      "author": "Zehra Bozkurt ",
+      "color": "from-indigo-400 to-indigo-600",
+      "emoji": "💕"
+    }
+  ],
+  "memories": [
+    {
+      "id": 1,
+      "memory": "Berna ben ve Naz bowlinge gitmiştik orada çok eğlenmistikk🙂 ben kaybederken cok eğlenmistim Naz da kazanmaya başladığını anlayınca shqbqhahwh",
+      "memoryKeyword": "Gerçek eğlenceee",
+      "author": "Sarenur Unuttum ",
+      "color": "from-pink-400 to-pink-600",
+      "emoji": "💖",
+      "media": {
+        "type": "image",
+        "url": "/images/Sarenur Unuttum.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "memory": "rümeysa ağlarken Zehranın götünü ısırmam için zorladığın zaman glemylwlyöwltlellgle",
+      "memoryKeyword": "GÖTTTTT",
+      "author": "ruveyda yılmaz",
+      "color": "from-purple-400 to-purple-600",
+      "emoji": "💖",
+      "media": null
+    },
+    {
+      "id": 3,
+      "memory": "AKM deyken gelen dönerleri bizim sanıp başkalarının dönerini yemiştik, sonrasında bizi arayan dönerciyi asla açmayıp deli gibi gülerek AKM den çıkıp eve gitmiştik🤓 O gün baya komikti bizim için",
+      "memoryKeyword": "Döner",
+      "author": "Gamze Demirtaş",
+      "color": "from-orange-400 to-orange-600",
+      "emoji": "💖",
+      "media": {
+        "type": "image",
+        "url": "/images/Gamze Demirtaş.JPG"
+      }
+    },
+    {
+      "id": 4,
+      "memory": "2. Sınıfın ilk günü okula ilk geldiğim gün senin yanına oturmuştum",
+      "memoryKeyword": "Okul",
+      "author": "Nurgül çetin",
+      "color": "from-yellow-400 to-yellow-600",
+      "emoji": "💖",
+      "media": {
+        "type": "image",
+        "url": "/images/Nurgül Çetin.JPG"
+      }
+    },
+    {
+      "id": 5,
+      "memory": "Birlikte geçirdiğimiz en komik anı seçemiyorum sanırım ama kulaklık takıp dam üstüne çul serer eşliğinde saçma salak dans ettiğimiz o an her hatırladığımda komik oluyor eheheh",
+      "memoryKeyword": "Athena",
+      "author": "Hatice Dönmez ",
+      "color": "from-cyan-400 to-cyan-600",
+      "emoji": "💖",
+      "media": {
+        "type": "video",
+        "url": "/images/Hatice Dönmez.mp4"
+      }
+    },
+    {
+      "id": 6,
+      "memory": "Asko sizin evde nurgülün kına denemesi yapmıştık orda aşırı eğlendim ve tabi ki de siz olduğunuz için her zaman çok şanslıyım",
+      "memoryKeyword": "Mordoğan",
+      "author": "Zeynep beyza",
+      "color": "from-green-400 to-green-600",
+      "emoji": "💖",
+      "media": {
+        "type": "image",
+        "url": "/images/Zeynep Beyza.jpeg"
+      }
+    },
+    {
+      "id": 7,
+      "memory": "Deli sahnede quiz den sonra delilerce dans ederken çoook eğlendim benim için çok tatlı bir an.",
+      "memoryKeyword": "Dans 💃",
+      "author": "Tarık Efe Güner",
+      "color": "from-red-400 to-red-600",
+      "emoji": "💖",
+      "media": {
+        "type": "image",
+        "url": "/images/Tarık Efe.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "memory": "Bissürü var dört haramiler der geçerim",
+      "memoryKeyword": "Yorgan mont",
+      "author": "Berat Alaca ",
+      "color": "from-rose-400 to-rose-600",
+      "emoji": "💖",
+      "media": {
+        "type": "image",
+        "url": "/images/Berat Alaca.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "memory": "Yazlıktayken bana, yüzme öğreteceğim sana diyerek beni boğmaya çalışman. Nasıl tatlı bir anımız nasıll !!!  Senii seviyorumm canım bacımm💕💕💕🧚🏻‍♀️🧚🏻‍♀️🧚🏻‍♀️🧚🏻‍♀️",
+      "memoryKeyword": "Olayın bana çağırıştırdıkları: 1) kahpelik 2) düzenbazlık 3) kalleşlik 4) intikam ..",
+      "author": "Zehra Bozkurt ",
+      "color": "from-indigo-400 to-indigo-600",
+      "emoji": "💖",
+      "media": {
+        "type": "image",
+        "url": "/images/Zehra Bozkurt.jpeg"
+      }
+    }
+  ],
+  "letterText": ""
+}
